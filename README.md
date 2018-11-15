@@ -1,1 +1,1 @@
-# sv-howto
+# Notes on how to successfully run everything
